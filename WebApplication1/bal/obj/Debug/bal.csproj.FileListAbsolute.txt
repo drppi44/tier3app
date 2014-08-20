@@ -1,0 +1,14 @@
+C:\Dropbox\test_task\ui\bal\obj\Debug\bal.csprojResolveAssemblyReference.cache
+C:\Dropbox\test_task\ui\bal\bin\Debug\bal.dll
+C:\Dropbox\test_task\ui\bal\bin\Debug\bal.pdb
+C:\Dropbox\test_task\ui\bal\bin\Debug\dal.dll
+C:\Dropbox\test_task\ui\bal\bin\Debug\dal.pdb
+C:\Dropbox\test_task\ui\bal\obj\Debug\bal.dll
+C:\Dropbox\test_task\ui\bal\obj\Debug\bal.pdb
+C:\Dropbox\test_gridview\WebApplication1\bal\obj\Debug\bal.csprojResolveAssemblyReference.cache
+C:\Dropbox\test_gridview\WebApplication1\bal\obj\Debug\bal.dll
+C:\Dropbox\test_gridview\WebApplication1\bal\bin\Debug\bal.dll
+C:\Dropbox\test_gridview\WebApplication1\bal\bin\Debug\bal.pdb
+C:\Dropbox\test_gridview\WebApplication1\bal\bin\Debug\dal.dll
+C:\Dropbox\test_gridview\WebApplication1\bal\bin\Debug\dal.pdb
+C:\Dropbox\test_gridview\WebApplication1\bal\obj\Debug\bal.pdb
