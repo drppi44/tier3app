@@ -5,7 +5,7 @@ Environment Requirements:<br>
   .NET Framework 2.0 or higher, <br>
   MSSQL 2008<br>
 <br>
-Installation guide:<br>
+Installation guide:
 <ul>
 <li>
   -Open project<br>
