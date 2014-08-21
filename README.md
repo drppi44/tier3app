@@ -13,11 +13,14 @@ Installation guide:<br>
   <li>
   -Import MyDB <br>
   </li>
+  <li>
   -Change coString to connect current database:<br>
     <br>
       (dal -> DALCLASS.cs line-14)<br>
       string coString =<br>
-             @"Data Source=.\sqlexpress;Database=myDB;Trusted_Connection=True;";<br>
+             @"Data Source=.\sqlexpress;Database=myDB;Trusted_Connection=True;";</li>
   <br>
+  <li>
   -run project<br>
+  </li>
 </ul>
